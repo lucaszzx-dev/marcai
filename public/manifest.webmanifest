@@ -1,0 +1,17 @@
+{
+  "name": "Marcaí — Agenda profissional",
+  "short_name": "Marcaí",
+  "description": "Clientes, serviços e agenda para profissionais autônomos.",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#f4f6f2",
+  "theme_color": "#174e3a",
+  "icons": [
+    {
+      "src": "/marcai-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
