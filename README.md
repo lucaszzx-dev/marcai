@@ -44,3 +44,5 @@ Nunca use uma chave `service_role` ou secret key no frontend.
 ## Status
 
 MVP em desenvolvimento.
+
+- 🌐 Portfólio: [https://lucasdfranca.dev](https://lucasdfranca.dev)
